@@ -34,17 +34,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QwZoymu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Now lets go back to osTicket and log-in as one of the Agents we created so we can solve the user tickets. Now that we are logged in we can see the tickets that were created by the users. Select one and we will set the SLA and we can even assign the ticket to an Agent. Depending on the severigty of the issue you as the agent can set the priority, department and agent it is assigned to. 
+2. Now lets go back to osTicket and log-in as one of the Agents we created so we can solve the user tickets. Now that we are logged in we can see the tickets that were created by the users. Select one and we will set the SLA and we can even assign the ticket to an Agent. Depending on the severigty of the issue you as the agent can set the priority, department and agent it is assigned to. You can leave notes for other agents to see as well. Once the issue is resolved you can select 'resolved' from the drop down menu at the bottom and close out the ticket. You will see the ticket has dissappeared from the 'Open' tickets section and is now in the 'Closed' tickets section. That concludes the lab. Feel free to practice more in the osTicket enviornment and familiarize yourself with it. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2TyBtZB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/7xg1UdL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 </p>
 <br />
