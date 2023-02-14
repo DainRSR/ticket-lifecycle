@@ -56,3 +56,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/qKgfDC8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+LAST STEP: Don't forget to log back into your Azure account and delete the resource group you created for this lab. If you keep it running you will be charged from you FREE $200 Subcription account. ALso it is good practice to delete any Virtual Machines you created after you are finished with them. 
+</p>
+<br />
